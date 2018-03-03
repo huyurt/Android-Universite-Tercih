@@ -7,4 +7,4 @@
 Java, Sql - İlk Android uygulamam (2017)
 
 min. API 21 
-* [apk](http://bit.ly/2F9SAaV)
+* [android için apk](http://bit.ly/2F9SAaV)
